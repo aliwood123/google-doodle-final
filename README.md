@@ -11,5 +11,5 @@ I am in awe of these artists, who create such masterful works of art, using tool
 [Sample to Figma Collage](https://www.figma.com/design/9zBcWx4nsPeicMiT707dbl/Style-Tile-for-Google-Doodle-(AW)?node-id=1-3&t=tIjfHBmXi5Zfq8VE-1)
 
 ## Resources
-* [SVG Illustration: Adobe Stock #291608819; "Glassblower Melts Glass in Furnace, Blows Vessel" by Mykola.](https://stock.adobe.com/images/glassblower-melts-glass-in-furnace-blows-vessel/291608819?prev_url=detail)
-* [Fontshare: Sora](https://www.fontshare.com/fonts/sora)
+* [SVG Illustration: Adobe Stock #250488299; "Glassblowers set, Man and Woman Blowing Glass Vessels, Craft Hobby or Profession Vector Illustration" by topvectors.](https://stock.adobe.com/images/glassblowers-set-man-and-woman-blowing-glass-vessels-craft-hobby-or-profession-vector-illustration/250488299?prev_url=detail&isa0=1&state=%7B%22ac%22%3A%22stock.adobe.com%22%7D)
+* [Adobe Fonts: Glowworm MN](https://fonts.adobe.com/fonts/glowworm-mn)
